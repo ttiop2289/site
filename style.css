@@ -1,0 +1,73 @@
+body {
+    max-width: 1440px;
+}
+.logo {
+    position: absolute;
+    top: 17px;
+    left: 36px;
+    right: 1186px;
+}
+.nav1 {
+    position: absolute;
+    width: 77px;
+    height: 29px;
+    top: 31px;
+    left: 290px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+    color: #413E52;
+}
+.open1 {
+    position: absolute;
+    top: 45px;
+    left: 376px;
+}
+.nav2 {
+    position: absolute;
+    width: 54px;
+    height: 29px;
+    top: 31px;
+    left: 410px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+    color: #413E52;
+}
+.nav3 {
+    position: absolute;
+    width: 66px;
+    height: 29px;
+    top: 31px;
+    left: 488px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    color: #413E52;
+    text-decoration: none;
+}
+.open2 {
+    position: absolute;
+    top: 45px;
+    left: 563px;
+}
+.lupa {
+    position: absolute;
+    top: 31px;
+    left: 1221px;
+}
+.btn {
+    position: absolute;
+    top: 20px;
+    left: 1271px;
+    width: 130px;
+    height: 44px;
+}
